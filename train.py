@@ -2,7 +2,6 @@ import graphy as G
 import numpy as np
 import time, sys, os
 from sacred import Experiment
-from __builtin__ import False
 
 ex = Experiment('Deep VAE')
 
